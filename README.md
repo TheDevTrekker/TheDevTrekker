@@ -1,6 +1,6 @@
 # Derik
 
-![Full-stack Developer](https://i.pinimg.com/originals/26/05/9d/26059d15361e2b45788df4216325bffe.gif)
+<img src="https://cdn.dribbble.com/userupload/41907098/file/original-08fd69ebd0325d8e5a42f7e6357fa35a.gif" width="200" height="150">
 
 **Full-stack Developer | Application Development Student | Outdoor Enthusiast**
 
