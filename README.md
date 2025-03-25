@@ -1,6 +1,6 @@
 # Derik
 
-![Full-stack Developer](https://via.placeholder.com/100)
+![Full-stack Developer]([https://via.placeholder.com/100](https://i.pinimg.com/originals/26/05/9d/26059d15361e2b45788df4216325bffe.gif))
 
 **Full-stack Developer | Application Development Student | Outdoor Enthusiast**
 
@@ -15,7 +15,6 @@ I'm a full-stack developer and outdoor enthusiast, building innovative applicati
 
 ### 🖥️ Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
