@@ -47,7 +47,7 @@ I'm a full-stack developer and outdoor enthusiast, building innovative applicati
 
 ## 📊 GitHub Stats
 
-![Derik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Derik&show_icons=true&theme=dark)
+![Derik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDevTrekker&show_icons=true&theme=dark)
 
 **GitHub Summary:**
 - ⭐ Total Stars Earned: **X**
