@@ -2,12 +2,16 @@
 
 <img src="https://cdn.dribbble.com/userupload/41907098/file/original-08fd69ebd0325d8e5a42f7e6357fa35a.gif" width="200" height="150">
 
-**Full-stack Developer | Application Development Student | Outdoor Enthusiast**
+**Final-Year Computer Science Student | Full-Stack Developer | Outdoor Enthusiast**
 
-I'm a full-stack developer and outdoor enthusiast, building innovative applications while exploring nature—one project and one adventure at a time.
+I'm a final-year application development student and full-stack developer, building innovative applications while exploring nature—one project and one adventure at a time.
+
+🌐 Check out my portfolio: https://thedevtrekker.github.io/Portfolio/
+--
 
 💡 Passionate about **scalable applications, AI-driven solutions, and software architecture.**  
 🚀 Always exploring **cutting-edge tech** while optimizing performance and user experience.
+
 
 ---
 
