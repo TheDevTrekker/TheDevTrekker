@@ -6,7 +6,7 @@
 
 I'm a final-year application development student and full-stack developer, building innovative applications while exploring nature—one project and one adventure at a time.
 
-🌐 Check out my portfolio: https://thedevtrekker.github.io/portfolio/
+🌐 Check out my portfolio: https://thedevtrekker.github.io/Portfolio/
 --
 
 💡 Passionate about **scalable applications, AI-driven solutions, and software architecture.**  
